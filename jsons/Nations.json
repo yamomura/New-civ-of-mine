@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Aliens",
+		"name": "Idiots",
 		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"adjective": ["idiot"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "I want pizza!",
+		"startIntroPart2": "Well hello there!!",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
